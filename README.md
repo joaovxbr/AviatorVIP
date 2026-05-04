@@ -38,4 +38,7 @@ O script está configurado para ouvir e imprimir os seguintes eventos em tempo r
    ```
 - Aviso: Este projeto tem fins estritamente educacionais e de estudo sobre integrações via API e WebSockets.
    
+<img width="320" height="818" alt="image" src="https://github.com/user-attachments/assets/82581a78-9f9a-4d96-b70f-6c2c14ab687b" />
+<img width="549" height="228" alt="image" src="https://github.com/user-attachments/assets/b2b5f5f9-6cbf-403d-abdb-6e0b057c8a0b" />
+
 
