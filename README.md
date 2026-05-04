@@ -69,12 +69,3 @@ Uso sob total responsabilidade do usuário
 💡 Observação
 
 Use com consciência. Este projeto não deve ser utilizado para violar termos de serviço de terceiros.
-
----
-
-Se quiser, posso dar um upgrade ainda maior tipo:
-- adicionar **badges (status, versão, licença)**
-- criar um **banner topo estilo hacker/profissional**
-- ou deixar no padrão de projeto “premium” (igual repo grande)
-
-Só falar 👍
