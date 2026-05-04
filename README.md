@@ -27,3 +27,15 @@ O script está configurado para ouvir e imprimir os seguintes eventos em tempo r
 1. Clone o repositório:
    ```bash
    git clone https://github.com/SEU-USUARIO/rodrigoaviator3.git
+   ```
+2.Instale as dependências:
+   ```bash
+   npm install
+   ```
+3.Execute o script principal:
+   ```bash
+   node index.js
+   ```
+- Aviso: Este projeto tem fins estritamente educacionais e de estudo sobre integrações via API e WebSockets.
+   
+
