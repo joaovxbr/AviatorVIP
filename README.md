@@ -26,7 +26,7 @@ O script está configurado para ouvir e imprimir os seguintes eventos em tempo r
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/rodrigoaviator3.git
+   git clone https://github.com/joaovxbr/AviatorVIP.git
    ```
 2. Instale as dependências:
    ```bash
