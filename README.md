@@ -29,6 +29,8 @@ O script realiza login, captura o `sid` do launcher Banana Provider, autentica n
 - ⚡ **WebSocket em Tempo Real**  
   Conexão via Socket.io (modo websocket) para leitura de eventos do jogo.
 
+- 🔍 ***Game do Cassino***
+  [🎮 Clique aqui para acessar o game](https://betou.bet.br/games/banana/aviator-vip)
 ---
 
 ## 📡 Eventos Monitorados
